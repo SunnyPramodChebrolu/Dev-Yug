@@ -1,0 +1,50 @@
+Create a modern, tech-inspired landing page for Dev Yug, featuring the attached logo prominently. Use vibrant colors, sleek lines, and interactive elements. Structure the page with these sections (no user success stories, no numbers):
+
+Hero Section: Dev Yug logo, headline about ushering in a new era for developers who value skills and character over credentials, clear CTA.
+
+Our Story: Detail Dev Yug’s origin, mission, and the vision of empowering developers based on biblical ethical values.
+
+What Makes Us Different: Explain the unique skill-based, values-driven approach and community culture.
+
+How It Works: Describe how people join and participate, emphasizing community and skills—not steps, not stats.
+
+Community: Emphasize the sense of belonging, collaboration, and support for all developers.
+
+Join Dev Yug: Compelling CTA section to encourage sign-up or engagement.
+
+Footer: Standard links (contact, terms, etc).
+
+All content must express Dev Yug’s unique philosophy, founding story, and value-based goals—no mention of user stories, generic testimonials, or statistics.
+
+Sample Content for Each Section
+Hero Section
+
+DEV YUG
+A New Era for Developers
+Where skills and values create tomorrow’s leaders
+[Join Dev Yug] [Learn More]
+
+Our Story
+
+Dev Yug began with a vision: to create a platform where pure talent and ethical values matter more than degrees or background. Founded in Hyderabad, we are committed to nurturing a community of developers empowered by skills and inspired by biblical principles of integrity, growth, and mutual support.
+
+What Makes Us Different
+
+At Dev Yug, every individual’s skill is valued and character is celebrated. Our approach puts real talent at the center, welcoming all who strive for excellence and community, regardless of formal educational background.
+
+How It Works
+
+Become part of Dev Yug by joining the platform, showcasing your skills, and engaging with like-minded developers. Benefit from connections, mentorship, and a faith-based environment fostering genuine growth.
+
+Community
+
+Our network is built on encouragement, learning, and collaboration. Here, developers connect, share, and grow together—supported by shared values and a passion for innovation.
+
+Join Dev Yug
+
+Are you ready for a new era in your coding journey?
+[Sign Up Now] [Contact Us]
+
+Footer
+
+Let’s connect: [Social links] | Contact | Privacy | Terms
